@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Harshali+Dipak+Bhamare;Python+Developer;Aspiring+Full+Stack+Developer;Computer+Science+Engineer;Always+Learning+New+Things" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BhamareHarshali&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Harshali+Bhamare;Python+Developer;Full+Stack+Developer;Building+Real+World+Projects" />
 </p>
 
 # Hi 👋, I'm Harshali Dipak Bhamare
@@ -65,6 +61,7 @@ I am a Computer Science Engineering graduate passionate about Python, Web Develo
 ---
 
 ## 📂 Featured Projects
+---
 
 ## 📘 Python Learning Journey
 
@@ -136,9 +133,9 @@ Python-based project using Object-Oriented Programming and File Handling.
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=BhamareHarshali&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=BhamareHarshali&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhamareHarshali&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhamareHarshali&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -166,3 +163,13 @@ Python-based project using Object-Oriented Programming and File Handling.
 </p>
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/BhamareHarshali/BhamareHarshali/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=BhamareHarshali&style=for-the-badge&color=blue"/>
+</p>
