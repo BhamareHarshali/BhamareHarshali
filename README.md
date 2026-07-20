@@ -4,29 +4,36 @@
 
 # Hi 👋, I'm Harshali Dipak Bhamare
 
-## 💻 Aspiring Python & Full Stack Developer
+## 💻 Software Developer | Python | Web Development
 
-I am a Computer Science Engineering graduate passionate about Python, Web Development, and Problem Solving. I enjoy building projects, learning new technologies, and continuously improving my programming skills.
+I am a Computer Science Engineering graduate focused on Python Development and Full Stack Web Development. I build real-world applications using Python, Django, PHP, MySQL, and modern web technologies. I enjoy solving programming problems, designing practical solutions, and continuously improving my software development skills.
+
+-----
+## 👨‍💻 Professional Summary
+
+Computer Science Engineering graduate with hands-on experience in Python programming, Object-Oriented Programming, Web Development, and Database Management. Skilled in developing real-world applications, automation scripts, and full-stack projects. Looking for opportunities to contribute as a Software Developer and grow with innovative teams.
 
 ---
-## 💻 Tech Stack
+## 🛠️ Technical Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Programming Languages
+Python | JavaScript | PHP | SQL
 
-## 🚀 Current Status
+### Backend Development
+Django | Flask | MySQL
 
-- 💻 Building Python Projects
-- 🌱 Learning Django, PHP & MySQL
-- 📚 Practicing Data Structures & Algorithms
-- 🎯 Preparing for Software Developer Interviews
+### Frontend Development
+HTML | CSS | JavaScript | Bootstrap
+
+### Tools
+Git | GitHub | VS Code | XAMPP
+
+## 🚀 Current Focus
+
+- 🚀 Building Python and Full Stack applications
+- 🐍 Developing projects using Python, Django and MySQL
+- 🧠 Improving Data Structures & Algorithms skills
+- 💻 Preparing production-ready software projects
 
 ## 👩‍💻 About Me
 
@@ -60,7 +67,55 @@ I am a Computer Science Engineering graduate passionate about Python, Web Develo
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
+
+
+### 🤖 ChatBirdie - Python AI Chatbot
+
+Desktop chatbot application developed using Python and Tkinter.
+
+**Technologies:**
+Python | Tkinter | OOP
+
+---
+
+### 📱 Mobile Shop Management System
+
+A Python-based inventory and billing management system.
+
+**Features:**
+- Product management
+- Customer management
+- Seller management
+- File handling
+
+**Technologies:**
+Python | OOP | File Handling
+
+---
+
+### 🏢 NGO Management System
+
+Web-based NGO management application.
+
+**Features:**
+- Admin dashboard
+- Database management
+- User management
+
+
+**Technologies:**
+PHP | MySQL | HTML | CSS
+
+---
+
+### 🌾 AnaajSuraksha
+
+Research-based project for grain quality monitoring and supply chain security.
+
+**Technologies:**
+Python | Machine Learning | Image Processing
+
 ---
 
 ## 📘 Python Learning Journey
@@ -76,15 +131,6 @@ A comprehensive collection of Python programs covering Core Python concepts, Obj
 - 💡 Beginner-friendly examples
 
 🔗 **Repository:** [Python Learning Journey](https://github.com/BhamareHarshali/Python_Learning_Journey)
-
----
-### 🏢 NGO Management System
-PHP & MySQL based web application for NGO management.
-
----
-
-### 📱 Mobile Shop Management System
-Python-based project using Object-Oriented Programming and File Handling.
 
 ---
 
@@ -110,7 +156,7 @@ Python-based project using Object-Oriented Programming and File Handling.
 - 🚀 Participated in Bharatiya Antariksha Hackathon
 - 💻 Built multiple Python and Web Development projects
   
-## 📫 Connect with Me
+## 📫 Let's Connect
 
 <p align="left">
   <a href="https://github.com/BhamareHarshali">
@@ -128,7 +174,10 @@ Python-based project using Object-Oriented Programming and File Handling.
 
 ⭐ Thank you for visiting my profile!
 ---
+## 💻 Coding Profiles
 
+- GitHub: Building projects and contributing code
+- --
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -149,16 +198,6 @@ Python-based project using Object-Oriented Programming and File Handling.
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=BhamareHarshali&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=BhamareHarshali&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
