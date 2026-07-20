@@ -98,3 +98,24 @@ Python-based project using Object-Oriented Programming and File Handling.
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhamareHarshali&layout=compact&theme=tokyonight"/>
 
 </p>
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=BhamareHarshali&theme=tokyonight"/>
+
+</p>
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=BhamareHarshali&theme=tokyonight&row=1&column=7"/>
+
+</p>
+## 👀 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=BhamareHarshali&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
