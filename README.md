@@ -1,16 +1,76 @@
-## Hi there 👋
+# Hi 👋, I'm Harshali Dipak Bhamare
 
-<!--
-**BhamareHarshali/BhamareHarshali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Aspiring Python & Full Stack Developer
 
-Here are some ideas to get you started:
+I am a Computer Science Engineering graduate passionate about Python, Web Development, and Problem Solving. I enjoy building projects, learning new technologies, and continuously improving my programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+- 🎓 B.Tech in Computer Science Engineering
+- 🌱 Currently learning Python, Django, PHP & MySQL
+- 💡 Interested in Software Development and Full Stack Development
+- 📚 Solving Python programming problems daily
+- 🎯 Goal: Become a Software Developer
+
+---
+
+## 🚀 Skills
+
+### Programming Languages
+- Python
+- JavaScript
+- PHP
+- SQL
+
+### Web Development
+- HTML
+- CSS
+- Django
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- XAMPP
+
+---
+
+## 📂 Featured Projects
+
+### 📘 Python Learning Journey
+A structured repository containing Python basics, OOP, Functions, Data Structures, Searching, Sorting, Patterns, File Handling, and practice programs.
+
+🔗 https://github.com/BhamareHarshali/Python_Learning_Journey
+
+---
+
+### 🏢 NGO Management System
+PHP & MySQL based web application for NGO management.
+
+---
+
+### 📱 Mobile Shop Management System
+Python-based project using Object-Oriented Programming and File Handling.
+
+---
+
+## 📈 Currently Learning
+
+- Django
+- PHP
+- MySQL
+- Git & GitHub
+- Data Structures & Algorithms
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/BhamareHarshali
+
+---
+
+⭐ Thank you for visiting my profile!
