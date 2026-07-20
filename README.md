@@ -205,10 +205,5 @@ A comprehensive collection of Python programs covering Core Python concepts, Obj
 ## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/BhamareHarshali/BhamareHarshali/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=BhamareHarshali&style=for-the-badge&color=blue"/>
+  <img src="https://raw.githubusercontent.com/BhamareHarshali/BhamareHarshali/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
