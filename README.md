@@ -85,7 +85,10 @@ Python-based project using Object-Oriented Programming and File Handling.
 - GitHub: https://github.com/BhamareHarshali
 
 ---
-
+- GitHub: https://github.com/BhamareHarshali
+- LinkedIn: https://linkedin.com/in/your-profile
+- Email: harshalibhamare729@email.com
+  
 ⭐ Thank you for visiting my profile!
 ---
 
