@@ -95,30 +95,24 @@ Python-based project using Object-Oriented Programming and File Handling.
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=BhamareHarshali&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhamareHarshali&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BhamareHarshali&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhamareHarshali&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=BhamareHarshali&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=BhamareHarshali&theme=tokyonight&hide_border=true" />
 </p>
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=BhamareHarshali&theme=tokyonight&row=1&column=7"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=BhamareHarshali&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
+
 ## 👀 Profile Visitors
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=BhamareHarshali&label=Profile%20Views&color=0e75b6&style=flat"/>
-
+  <img src="https://komarev.com/ghpvc/?username=BhamareHarshali&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
