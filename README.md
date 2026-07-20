@@ -182,9 +182,9 @@ A comprehensive collection of Python programs covering Core Python concepts, Obj
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=BhamareHarshali&show_icons=true&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=BhamareHarshali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhamareHarshali&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhamareHarshali&layout=compact&theme=tokyonight&hide_border=true" width="42%"/>
 
 </p>
 
