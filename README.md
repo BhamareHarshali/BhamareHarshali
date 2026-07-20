@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Harshali+Dipak+Bhamare;Python+Developer;Aspiring+Full+Stack+Developer;Computer+Science+Engineer;Always+Learning+New+Things" />
 </p>
+
 # Hi 👋, I'm Harshali Dipak Bhamare
 
 ## 💻 Aspiring Python & Full Stack Developer
@@ -82,9 +83,8 @@ Python-based project using Object-Oriented Programming and File Handling.
 
 ## 📫 Connect with Me
 
-- GitHub: https://github.com/BhamareHarshali
+## 📫 Connect with Me
 
----
 - GitHub: https://github.com/BhamareHarshali
 - LinkedIn: https://www.linkedin.com/in/harshalibhamare
 - Email: harshalibhamare729@email.com
