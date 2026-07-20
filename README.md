@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Harshali+Dipak+Bhamare;Python+Developer;Aspiring+Full+Stack+Developer;Computer+Science+Engineer;Always+Learning+New+Things" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BhamareHarshali&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 # Hi 👋, I'm Harshali Dipak Bhamare
 
 ## 💻 Aspiring Python & Full Stack Developer
@@ -20,6 +24,14 @@ I am a Computer Science Engineering graduate passionate about Python, Web Develo
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 🚀 Current Status
+
+- 💻 Building Python Projects
+- 🌱 Learning Django, PHP & MySQL
+- 📚 Practicing Data Structures & Algorithms
+- 🎯 Preparing for Software Developer Interviews
+
 ## 👩‍💻 About Me
 
 - 🎓 B.Tech in Computer Science Engineering
@@ -54,13 +66,21 @@ I am a Computer Science Engineering graduate passionate about Python, Web Develo
 
 ## 📂 Featured Projects
 
-### 📘 Python Learning Journey
-A structured repository containing Python basics, OOP, Functions, Data Structures, Searching, Sorting, Patterns, File Handling, and practice programs.
+## 📘 Python Learning Journey
 
-🔗 https://github.com/BhamareHarshali/Python_Learning_Journey
+A comprehensive collection of Python programs covering Core Python concepts, Object-Oriented Programming (OOP), Functions, File Handling, Data Structures, Searching & Sorting Algorithms, Pattern Programs, and Practice Problems.
+
+✨ **Features**
+- 📚 10+ Python modules
+- 🧩 250+ practice programs
+- 🏗️ Object-Oriented Programming
+- 📂 File Handling
+- 🔍 Searching & Sorting Algorithms
+- 💡 Beginner-friendly examples
+
+🔗 **Repository:** [Python Learning Journey](https://github.com/BhamareHarshali/Python_Learning_Journey)
 
 ---
-
 ### 🏢 NGO Management System
 PHP & MySQL based web application for NGO management.
 
@@ -80,15 +100,35 @@ Python-based project using Object-Oriented Programming and File Handling.
 - Data Structures & Algorithms
 
 ---
+## 📜 Certifications
 
-## 📫 Connect with Me
+- 🏅 Python Programming
+- 🏅 JavaScript Fundamentals
+- 🏅 Deloitte Data Analytics Job Simulation
+- 🏅 Web Development Internship – YBI Foundation
 
-## 📫 Connect with Me
+## 🏆 Achievements
 
-- GitHub: https://github.com/BhamareHarshali
-- LinkedIn: https://www.linkedin.com/in/harshalibhamare
-- Email: harshalibhamare729@email.com
+- 🥈 2nd Rank – State Level Electronics Exhibition
+- 🚀 Participated in Bharatiya Antariksha Hackathon
+- 💻 Built multiple Python and Web Development projects
   
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="https://github.com/BhamareHarshali">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/harshalibhamare">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:harshalibhamare729@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 ⭐ Thank you for visiting my profile!
 ---
 
@@ -102,6 +142,9 @@ Python-based project using Object-Oriented Programming and File Handling.
 
 </p>
 
+## 💡 Developer Quote
+
+> "Every expert was once a beginner. Keep learning, keep building."
 ---
 
 ## 🔥 GitHub Streak
@@ -123,11 +166,3 @@ Python-based project using Object-Oriented Programming and File Handling.
 </p>
 
 ---
-
-## 👀 Profile Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=BhamareHarshali&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
